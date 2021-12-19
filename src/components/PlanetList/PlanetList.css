@@ -1,0 +1,19 @@
+.custom-segment {
+    display: flex !important;
+    justify-content: center
+}
+
+.custom-list {
+    display: flex !important;
+    justify-content: center;
+    margin-top: -1% !important;
+}
+
+.custom-list .item{
+    width: 16.6%;
+    text-align: center;
+}
+
+.custom-list .empty-list {
+    width: 25% !important;
+}

@@ -1,0 +1,15 @@
+.content {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.content-description {
+    line-height: 3rem;
+    font-size: 1.7rem;
+    font-weight: bold;
+    padding-bottom: 3rem;
+}
